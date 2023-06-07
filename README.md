@@ -1,2 +1,2 @@
 # Detection-of-Data-packet-corruption
-C program Solution to detect Data packet corruption (LTTS Challenge_1)
+C program Solution to detect Data packet corruption (Challenge_1)
